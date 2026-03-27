@@ -40,7 +40,7 @@ The jwt token is then pasted into the header to retrieve the data of the user.
 
 ### 🔹 MySQL Database (Users Table)
 ![Database](screenshots/db1.png)
-![Database](screenshots/db1.png)
+![Database](screenshots/db2.png)
 
 Display of the database schema, the tables it has and the content of the tables.
 
