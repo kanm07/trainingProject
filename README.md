@@ -22,23 +22,23 @@ CodeSphere is a full-stack social platform for developers. This repository conta
 
 ### 🔹 User Registration (Postman)
 ![Register](screenshots/register.png)
-
+We register the user with basic details and when registered the password is encrypted and stored in database.
 ---
 
 ### 🔹 User Login (JWT Token)
 ![Login](screenshots/login.png)
-
+When we try to login we first get the jwt token required for logging in instead of the entire data to provide authentication.
 ---
 
 ### 🔹 Protected API (JWT Working)
 ![Get User](screenshots/get-user.png)
-
+The jwt token is then pasted into the header to retrieve the data of the user.
 ---
 
 ### 🔹 MySQL Database (Users Table)
 ![Database](screenshots/db1.png)
 ![Database](screenshots/db1.png)
-
+Display of the database schema, the tables it has and the content of the tables.
 ---
 
 ## Features
